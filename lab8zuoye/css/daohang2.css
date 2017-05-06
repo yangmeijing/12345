@@ -1,0 +1,59 @@
+*{
+
+	padding: 0px;
+
+	margin: 0px;
+
+}
+#titlediv{
+
+	background-image: url(../image/lvbiaoti.png);
+
+	width: 170px;
+
+	height: 28px;
+
+	color: white;
+
+	text-align: center;
+
+	padding-top: 8px;
+
+}
+#w{
+
+	width: 170px;
+
+	margin-left:0px;
+
+	height: 20px;
+
+	padding-left: 50px;
+	padding-top: 8px;
+
+	margin-top: 10px; 
+
+	background-image: url(../image/left_nav_item.gif);
+
+	background-repeat: no-repeat;
+
+	
+
+}
+ul{
+
+	list-style-type:none;
+}
+.menu{
+	 
+    height:400px; 
+    width: 250px;
+    padding-left:20px;
+    margin: 5px;
+	background-image: url(../image/bj.png);
+
+	background-repeat: no-repeat;
+
+	
+
+}
