@@ -1,0 +1,173 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.bannertop{
+	width: 1347px;
+	height: 95px;
+	background-image: url(../images/5.jpg);
+
+}
+.banner{
+	width:1347px; 
+	height:830px;
+	background-image: url(../images/bian2.jpg);
+	background-repeat: no-repeat;
+
+}
+.lianjie{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.lianjie a:link{
+	text-decoration: none;
+	color:#000000;
+
+}
+.lianjie a:hover{
+
+	color:#C71585; 
+}
+.logo{
+	width: 1000px;
+	height: 80px;
+	margin:auto;
+	margin-top: 20px;
+
+}
+#man{
+	
+	margin-top: 5px;
+}
+
+.logo input{
+	height: 30px;
+	margin-top: 30px;
+	border-width: 2px;
+	border-color: red;
+	border-style: solid;
+	float: right;
+}
+#sou{
+	width: 60px;
+	height: 34px;
+	background-color: red;
+	color: white;
+}
+#kuang{
+	width: 250px;
+}
+.banner img{
+	margin-left: 20px;
+	margin-top:900px;
+}
+.body{
+	width: 1347px;
+	height: 4470px;
+	background-image: url(../images/beijing.jpg);
+	margin-top: 500px;
+}
+.one{
+	height: 1000px;
+	width: 990px;
+	background-color: white;
+
+	margin: auto;
+
+}
+ div.imgage
+
+        {
+        	margin-top: 10px;
+
+
+            margin:1px;
+
+            display:inline;
+
+            height:auto;
+
+            width:auto;
+
+            float:left;
+
+            
+
+            opacity: 0.5;
+
+        }
+
+        div.imgage:hover
+
+        {
+
+            opacity: 1.0;
+
+
+        }
+
+        div.imgage img
+
+        {
+
+            display:inline;
+
+            margin:3px;
+        }
+#zuo{
+	margin-top: -10px;
+	margin-left: 10px;
+}
+#you{
+	margin-right: -300px;
+	margin-top: -200px;
+
+}
+.conten{
+	width: 990px;
+	height: 2850px;
+	background-color: white;
+	margin: auto;
+	margin-top: 0px;
+}
+.two{
+	height: 490px;
+	width: 990px;
+	background-color: white;
+
+	margin: auto;
+	margin-top: 100px;
+
+}
+.two0{
+	height: 490px;
+	width: 990px;
+	background-color: white;
+
+	margin: auto;
+	margin-top: -150px;
+
+}
+.bottom{
+	height: 200px;
+	width: 1347px;
+	margin: auto;
+	margin-top: 0px;
+	background-color: white;
+}
+#di{
+	margin-left::100px;
+}
+.banquan{
+	height: 100px;
+	width:1347px;
+	background-color: black;
+	margin-top: 50px;
+    color: white;
+    font-size: 10px;
+   font-weight: lighter; 
+}
+        
+

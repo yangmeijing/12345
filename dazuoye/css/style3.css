@@ -1,0 +1,83 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.bannertop{
+	width: 1347px;
+	height: 95px;
+	background-image: url(../images/5.jpg);
+
+}
+
+.lianjie{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.lianjie a:link{
+	text-decoration: none;
+	color:#000000;
+
+}
+.lianjie a:hover{
+
+	color:#C71585; 
+}
+.logo{
+	width: 1000px;
+	height: 80px;
+	margin:auto;
+	margin-top: 20px;
+
+}
+#man{
+	
+	margin-top: 5px;
+}
+
+.logo input{
+	height: 30px;
+	margin-top: 30px;
+	border-width: 2px;
+	border-color: red;
+	border-style: solid;
+	float: right;
+}
+#sou{
+	width: 60px;
+	height: 34px;
+	background-color: red;
+	color: white;
+}
+#kuang{
+	width: 250px;
+}
+#dongtai{
+	margin-top: 50px;
+}
+#content{
+	width: 1347px;
+	height: 900px;
+	margin-top: -5px;
+    background-image: url(../images/beijing3.jpg);
+	
+}
+#liebiao1{
+	height: 600px;
+	width: 600px;
+	margin: auto;
+	padding-top: 100px;
+	
+}
+#liebiao1 ul{
+	list-style-type: circle;
+	 
+}
+#liebiao1 a{
+	
+    color: black;
+    font-size: 25px;
+    line-height: 50px;
+}
+
